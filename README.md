@@ -3,9 +3,7 @@ Designed and developed a chatbot for hospital management systems using LangChain
 
 # Build an LLM RAG Chatbot With LangChain
 
-This repo contains the source code for [Build an LLM RAG Chatbot With LangChain](https://realpython.com/build-llm-rag-chatbot-with-langchain/)
-
-To run the final application that you'll build in this tutorial, you can use the code provided in `source_code_final/`.
+To run the final application that you'll build in this tutorial, you can use the code provided in Hospital-Chatbot
 
 ## Setup
 
